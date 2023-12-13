@@ -58,7 +58,7 @@ Follow these steps to run the project on your local machine:
 
 ## Author
 
-- **Your Name**
+- **Prathmesh**
 - GitHub: [prathmeshtiwari22](https://github.com/prathmeshtiwari22)
 
 ## Acknowledgments
